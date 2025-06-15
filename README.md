@@ -5,8 +5,7 @@
 
 - 🌱 Actualmente estoy cursando 8 semestre de Ingeniería de Sistemas
 - 🔭 Me interesa desarrollar proyectos **Full Stack modernos y seguros**
-- ![image](https://github.com/user-attachments/assets/6f18cf8c-692d-473c-b55f-05d891c883e9)
- Me gusta trabajar en equipo
+- 🫂 Me gusta trabajar en equipo
 
 ---
 
