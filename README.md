@@ -3,16 +3,29 @@
 
 ---
 
-- 🌱 Actualmente estoy cursando 8 semestre de Ingeniería de Sistemas
-- 🔭 Me interesa desarrollar proyectos **Full Stack modernos y seguros**
-- 🫂 Me gusta trabajar en equipo
+- 🌱 Actualmente curso 8.º semestre de Ingeniería de Sistemas y Computación, donde he fortalecido mi base en desarrollo de software y arquitectura de sistemas.
+- 🔭 Me interesa crear soluciones Full Stack modernas, seguras y escalables, aplicando buenas prácticas de diseño y desarrollo.
+- 🫂 Disfruto trabajar en equipo, aportar ideas, y aprender de mis compañeros en entornos colaborativos.
 
 ---
 
 ### 🧰 Tecnologías que uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,oracle,nodejs,js,html,css,react,docker,rabbitmq,git,gitlab" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
 
 ---
