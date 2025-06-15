@@ -57,7 +57,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/><br>GitLab
     </td>
     <td align="center" width="100">
-      <img src="[https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQBCu58zlNNZID4nEXWLvJviT9pHU8M76k8qkLal9BXTdhpPA_rFDNEn4gP0hcB61M9pc&usqp=CAU)" height="28"/><br>RabbitMQ
+      <img src="https://web-creator.ru/_next/static/media/rabbitmq.6b5ca218.svg" height="28"/><br>RabbitMQ
     </td>
     <td align="center" width="100"></td>
   </tr>
