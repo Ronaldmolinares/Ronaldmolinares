@@ -84,6 +84,6 @@
 ---
 
 ### 📫 Where to find me?
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/samir-molinares" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="My LinkedIn" height="50" width="50" /></a>
 </p>
