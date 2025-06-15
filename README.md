@@ -57,7 +57,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/><br>GitLab
     </td>
     <td align="center" width="100">
-      <img src="https://web-creator.ru/_next/static/media/rabbitmq.6b5ca218.svg" width="40"/><br>RabbitMQ
+      <img src="https://web-creator.ru/_next/static/media/rabbitmq.6b5ca218.svg" width="50"/><br>RabbitMQ
     </td>
     <td align="center" width="100"></td>
   </tr>
