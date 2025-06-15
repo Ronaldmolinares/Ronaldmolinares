@@ -1,15 +1,15 @@
-<h1 align="center">Hola 👋, soy Samir Molinares</h1>
-<h3 align="center">Estudiante de Ingeniería de Sistemas y Computación 👨‍💻 | En camino a ser Full Stack Developer 🚀 | Interesado en la Ciberseguridad 🔐 y la Inteligencia Artificial 🤖</h3>
+<h1 align="center">Hello 👋, I'm Samir Molinares</h1>
+<h3 align="center">Computer Science and Systems Engineering Student 👨‍💻 | Aspiring Full Stack Developer 🚀 | Passionate about Cybersecurity 🔐 and Artificial Intelligence 🤖</h3>
 
 ---
 
-- 🌱 Actualmente curso 8.º semestre de Ingeniería de Sistemas y Computación, donde he fortalecido mi base en desarrollo de software y arquitectura de sistemas.
-- 🔭 Me interesa crear soluciones Full Stack modernas, seguras y escalables, aplicando buenas prácticas de diseño y desarrollo.
-- 🫂 Disfruto trabajar en equipo, aportar ideas, y aprender de mis compañeros en entornos colaborativos.
+- 🌱 I'm currently in my 8th semester of Computer Science and Systems Engineering, where I've strengthened my foundations in software development and system architecture.
+- 🔭 I'm interested in building modern, secure, and scalable Full Stack solutions, following best practices in software design and development.
+- 🫂 I enjoy working in teams, contributing ideas, and learning from my peers in collaborative environments.
 
 ---
 
-### 🧰 Tecnologías que uso
+### 🧰 Technologies I Use
 
 <table align="center">
   <tr>
@@ -68,12 +68,22 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ronaldmolinares&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronaldmolinares&layout=compact&theme=tokyonight" alt="langs" />
+  <a href="https://github.com/Ronaldmolinares">
+    <!-- Stats Card -->
+    <img src="https://github-readme-stats.vercel.app/api?username=Ronaldmolinares&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0F172A&title_color=7DD3FC&text_color=E2E8F0&icon_color=818CF8&border_radius=10" height="50%" width="48%" alt="GitHub Stats" />
+    <!-- Streak Card -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronaldmolinares&theme=tokyonight&hide_border=true&background=0F172A&border_radius=10&fire=4F46E5&ring=818CF8&currStreakLabel=E2E8F0" height="205" width="48%" alt="Streak Stats" />
+  </a>
+  <br>
+  <a href="https://github.com/Ronaldmolinares">
+    <!-- Top Langs -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronaldmolinares&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=7DD3FC&text_color=E2E8F0&border_radius=10" alt="Top Langs" />
+  </a>
 </p>
 
 ---
 
-### 📫 ¿Dónde encontrarme?
-
-- [LinkedIn](https://www.linkedin.com/in/samir-molinares)
+### 📫 Where to find me?
+<p align="left">
+  <a href="https://linkedin.com/in/samir-molinares" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="My LinkedIn" height="50" width="50" /></a>
+</p>
