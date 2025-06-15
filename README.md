@@ -1,12 +1,12 @@
 <h1 align="center">Hola 👋, soy Samir Molinares</h1>
-<h3 align="center">Estudiante de Ingeniería de Sistemas y Computación 👨‍💻 | En camino a ser Full Stack Developer 🚀 | Apasionado por la Ciberseguridad 🔐 y la Inteligencia Artificial 🤖</h3>
+<h3 align="center">Estudiante de Ingeniería de Sistemas y Computación 👨‍💻 | En camino a ser Full Stack Developer 🚀 | Interesado por la Ciberseguridad 🔐 y la Inteligencia Artificial 🤖</h3>
 
 ---
 
-- 🌱 Actualmente estoy explorando temas como **Inteligencia Artificial aplicada**, **seguridad ofensiva**, y **arquitecturas distribuidas**
+- 🌱 Actualmente estoy cursando 8 semestre de Ingeniería de Sistemas
 - 🔭 Me interesa desarrollar proyectos **Full Stack modernos y seguros**
-- 👯 Me gusta colaborar con otros, especialmente en **proyectos académicos o personales**
-- ⚡ Fun fact: *Me gusta programar con café y música lo-fi ☕🎧*
+- ![image](https://github.com/user-attachments/assets/6f18cf8c-692d-473c-b55f-05d891c883e9)
+ Me gusta trabajar en equipo
 
 ---
 
@@ -30,6 +30,3 @@
 ### 📫 ¿Dónde encontrarme?
 
 - [LinkedIn](https://www.linkedin.com/in/samir-molinares)
-
-<!-- Puedes agregar otras redes más adelante como Dev.to, portafolio, etc. -->
-
