@@ -70,9 +70,9 @@
 <p align="center">
   <a href="https://github.com/Ronaldmolinares">
     <!-- Stats Card -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Ronaldmolinares&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0F172A&title_color=7DD3FC&text_color=E2E8F0&icon_color=818CF8&border_radius=10" height="50%" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ronaldmolinares&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0F172A&title_color=7DD3FC&text_color=E2E8F0&icon_color=818CF8&border_radius=10" width="48%" alt="GitHub Stats" />
     <!-- Streak Card -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronaldmolinares&theme=tokyonight&hide_border=true&background=0F172A&border_radius=10&fire=4F46E5&ring=818CF8&currStreakLabel=E2E8F0" height="205" width="48%" alt="Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronaldmolinares&theme=tokyonight&hide_border=true&background=0F172A&border_radius=10&fire=4F46E5&ring=818CF8&currStreakLabel=E2E8F0"  width="48%" alt="Streak Stats" />
   </a>
   <br>
   <a href="https://github.com/Ronaldmolinares">
