@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Samir Molinares</h1>
-<h3 align="center">Computer Science and Systems Engineering Student 👨‍💻 | Aspiring Full Stack Developer 🚀 | Passionate about Cybersecurity 🔐 and Artificial Intelligence 🤖</h3>
+<h3 align="center">Computer Science and Systems Engineering Student 👨‍💻 | Aspiring Full Stack Developer 🚀</h3>
 
 ---
 
