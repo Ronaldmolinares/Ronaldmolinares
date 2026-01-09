@@ -3,7 +3,7 @@
 
 ---
 
-- 🌱 I'm currently in my 8th semester of Computer Science and Systems Engineering, where I've strengthened my foundations in software development and system architecture.
+- 🌱 I'm currently in my 9th semester of Computer Science and Systems Engineering, where I've strengthened my foundations in software development and system architecture.
 - 🔭 I'm interested in building modern, secure, and scalable Full Stack solutions, following best practices in software design and development.
 - 🫂 I enjoy working in teams, contributing ideas, and learning from my peers in collaborative environments.
 
@@ -17,7 +17,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/><br>Java
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/><br>Spring
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdJ22QDYczasKYIbmhPzdDN_ZIaTE-4X15Xw&s" width="45"/><br>Python
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br>MySQL
@@ -57,7 +57,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45"/><br>GitLab
     </td>
     <td align="center" width="100">
-      <img src="https://web-creator.ru/_next/static/media/rabbitmq.6b5ca218.svg" width="45"/><br>RabbitMQ
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/><br>Spring
     </td>
     <td align="center" width="100"></td>
   </tr>
