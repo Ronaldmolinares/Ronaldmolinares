@@ -3,7 +3,7 @@
 
 ---
 
-- 🌱 I'm currently in my 9th semester of Computer Science and Systems Engineering, where I've strengthened my foundations in software development and system architecture.
+- 🌱 I'm in my last semester of Computer Science and Systems Engineering, where I've strengthened my foundations in software development and system architecture.
 - 🔭 I'm interested in building modern, secure, and scalable Full Stack solutions, following best practices in software design and development.
 - 🫂 I enjoy working in teams, contributing ideas, and learning from my peers in collaborative environments.
 
