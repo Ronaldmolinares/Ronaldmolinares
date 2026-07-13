@@ -1,11 +1,13 @@
-<h1 align="center">Hello 👋, I'm Samir Molinares</h1>
-<h3 align="center">Computer Science and Systems Engineering Student 👨‍💻 | Aspiring Full Stack Developer 🚀</h3>
+<h1 align="center">Hello, I'm Samir Molinares</h1>
+<h3 align="center"><i>Computer Science and Systems Engineering Student | Aspiring Full Stack Developer</i></h3>
 
 ---
 
-- 🌱 I'm in my last semester of Computer Science and Systems Engineering, where I've strengthened my foundations in software development and system architecture.
-- 🔭 I'm interested in building modern, secure, and scalable Full Stack solutions, following best practices in software design and development.
-- 🫂 I enjoy working in teams, contributing ideas, and learning from my peers in collaborative environments.
+### About Me
+
+I am a final-year Computer Science and Systems Engineering student passionate about designing and developing reliable, scalable, and high-quality software solutions. My experience spans Python, Java, JavaScript, React, SQL databases, and modern development practices, allowing me to build applications from backend services to complete full-stack systems.
+
+I am particularly interested in Backend Development, Machine Learning, and Software Architecture, and I continuously seek opportunities to expand my knowledge while applying industry best practices. I enjoy tackling challenging problems, collaborating with multidisciplinary teams, and creating technology that delivers real value to users.
 
 ---
 
