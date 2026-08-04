@@ -27,9 +27,10 @@ I am particularly interested in Backend Development, Machine Learning, and Softw
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/><br>MongoDB
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45"/><br>Oracle
-    </td>
+ <td align="center" width="100">
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="45"/><br>PostgreSQL
+</td>
+
   </tr>
   <tr>
     <td align="center" width="100">
